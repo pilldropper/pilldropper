@@ -19,7 +19,3 @@ Shopify theme + embedded admin app for a freelance video editing storefront. Vis
 
 `PHP` · `Laravel` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `Python` · `MySQL` · `Docker` · `Git`
 
-## GitHub Stats
-
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilldropper&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilldropper&layout=compact&theme=dark)
