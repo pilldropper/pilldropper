@@ -4,8 +4,7 @@ BS Information Technology grad (Leyte Normal University, 2026) based in Tanauan,
 
 - 🔭 Currently building **GYGOAT**, a desktop GUI for `yt-dlp`
 - 🛠️ Recently shipped **commission-website**, a Shopify theme + embedded admin app
-- 🌱 Learning: TypeScript backends, testing practices, and Shopify app development
-- 💬 Ask me about: Laravel, React, Tauri, or video/photo editing workflows
+- 🌱 Learning: React, testing practices, algorithms, and Frontend development
 - 📫 Reach me: joshgabmac@gmail.com
 
 ## Projects
