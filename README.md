@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 👋
 
-BS Information Technology grad (Leyte Normal University, 2026) based in Tacloban, Philippines — moving into software development.
+BS Information Technology grad (Leyte Normal University, 2026) based in Tanauan, Leyte, Philippines — moving into software development.
 
 - 🔭 Currently building **GYGOAT**, a desktop GUI for `yt-dlp`
 - 🛠️ Recently shipped **commission-website**, a Shopify theme + embedded admin app
